@@ -14,7 +14,7 @@
 🔵 -> Your skin became green, you can not be a creeper without being green!
 
 ## Download
-The download of this datapack can be found in the [releases](/releases/latest)
+The download of this datapack can be found in the [releases](https://github.com/edgycoder/Creepings_Origins-Datapack/releases/latest)
 
 ## Origins mod
 This datapack is created to be used with Origins mod, this will not work without that mod.  
