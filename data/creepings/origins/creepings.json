@@ -1,0 +1,15 @@
+{
+	"loading_priority": 1,
+	"powers": [
+		"creepings:creeper_vision",
+		"creepings:friendly_creepers",
+		"creepings:creeper_explosion",
+		"creepings:invulnerability",
+		"creepings:invulnerability.player"
+	],
+	"name": "Creepings",
+	"description": "Become one with the creepers!",
+	"icon": "minecraft:creeper_head",
+	"order": 0,
+	"impact": 2
+}

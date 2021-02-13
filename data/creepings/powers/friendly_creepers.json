@@ -1,0 +1,24 @@
+{
+  "name": "Friendly Creepers",
+  "description": "Creepers will accept you as one of them!",
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type":"origins:execute_command",
+        "command": "team add Creepings",
+        "permission_level": 4
+      }, {
+        "type":"origins:execute_command",
+        "command": "team join Creepings @p",
+        "permission_level": 4
+      }, {
+        "type": "origins:execute_command",
+        "command": "execute if entity @e[type=minecraft:creeper] run team join Creepings @e[type=minecraft:creeper]",
+        "permission_level": 4
+      }
+    ]
+  }
+}

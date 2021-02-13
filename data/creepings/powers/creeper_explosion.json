@@ -1,0 +1,26 @@
+{
+  "name": "Boom!",
+  "description": "Go boom, just like a only a real creeper can!",
+  "type": "origins:active_self",
+  "cooldown": 200,
+  "hud_render": {
+    "should_render": true
+  },
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:slow_falling",
+          "duration": 120,
+          "amplifier": 0
+        }
+      }, {
+        "type":"origins:execute_command",
+        "command": "summon minecraft:creeper ~ ~ ~ {ignited:1,Fuse:0,ExplosionRadius:16}",
+        "permission_level": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Creeper Vision",
+  "description": "And then there goes your sight.",
+  "type": "origins:shader",
+  "shader": "minecraft:shaders/post/creeper.json"
+}
