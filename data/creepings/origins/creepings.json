@@ -4,8 +4,10 @@
 		"creepings:creeper_vision",
 		"creepings:friendly_creepers",
 		"creepings:creeper_explosion",
+		"creepings:debuffs",
 		"creepings:invulnerability",
-		"creepings:invulnerability.player"
+		"creepings:invulnerability.player",
+		"creepings:creeper_skin"
 	],
 	"name": "Creepings",
 	"description": "Become one with the creepers!",

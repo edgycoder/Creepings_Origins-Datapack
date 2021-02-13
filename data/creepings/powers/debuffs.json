@@ -1,0 +1,28 @@
+{
+  "name": "Weakness & Mining Fatigue",
+  "description": "Creepers cant hit or mine right? Okay maybe a little bit.",
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:mining_fatigue",
+          "duration": 120,
+          "amplifier": 0,
+          "show_particles": false
+        }
+      }, {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:weakness",
+          "duration": 120,
+          "amplifier": 0,
+          "show_particles": false
+        }
+      }
+    ]
+  }
+}
