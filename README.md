@@ -12,7 +12,7 @@
 🔴 -> Your vision became creeper vision, it will be green and will not change anymore.  
 🔴 -> You gained Weakness (1) and Mining Fatigue (1). Creepers do not have arms right?  
 
-🔵 -> Two explosion abilities (`R` (comes from Identify) and `G`)
+🔵 -> Two explosion abilities (`R` (comes from Identity) and `G`)
 
 ## Download
 The download of this datapack can be found in the [releases](https://github.com/edgycoder/Creepings_Origins-Datapack/releases/latest)

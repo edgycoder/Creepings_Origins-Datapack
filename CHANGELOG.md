@@ -3,9 +3,9 @@
 ## [2.0.0](https://github.com/edgycoder/Creepings_Origins-Datapack/releases/tag/2.0.0)
 
 ### Additions
-- Creepings now uses [Identify mod](https://www.curseforge.com/minecraft/mc-mods/identity) as dependency to morph the player into a real creeper.
-- Friendly Creepers is now included with Identify (unless you have choses different settings)\*.
-- Pressing `R` gives the player the ability to explode without griefing (thanks to Identify).
+- Creepings now uses [Identity mod](https://www.curseforge.com/minecraft/mc-mods/identity) as dependency to morph the player into a real creeper.
+- Friendly Creepers is now included with Identity (unless you have choses different settings)\*.
+- Pressing `R` gives the player the ability to explode without griefing (thanks to Identity).
 
 \* The settings that I use can be found [here](https://gist.github.com/edgycoder/3b12b0c5b649273dcde2e6a65b8c12f7)
 ### Deletions
