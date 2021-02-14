@@ -7,11 +7,12 @@
 🟢 -> You gain the ability to explode (using a very quick creeper spawn, that does more damage then a normal creeper).  
 🟢 -> You will gain immunity to all kind of explosions, so your own explosions will also not harm you.  
 🟢 -> You became bff's with all creepers in your surroundings, they will not attack you anymore.  
+🟢 -> You became a real creeper, now you can really blend in with your bff's.  
 
 🔴 -> Your vision became creeper vision, it will be green and will not change anymore.  
-🔴 -> You gained Weakness (1) and Mining Fatigue (1). Creepers do not have arms right?
+🔴 -> You gained Weakness (1) and Mining Fatigue (1). Creepers do not have arms right?  
 
-🔵 -> Your skin became green, you can not be a creeper without being green!
+🔵 -> Two explosion abilities (`R` (comes from Identify) and `G`)
 
 ## Download
 The download of this datapack can be found in the [releases](https://github.com/edgycoder/Creepings_Origins-Datapack/releases/latest)

@@ -1,7 +1,16 @@
 {
-  "hidden": true,
-  "type": "origins:model_color",
-  "red": 0.0,
-  "green": 1.0,
-  "blue": 0.0
+  "name": "Become a creeper!",
+  "description": "It's time to creep on some people!",
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:execute_command",
+    "command": "identity equip @s minecraft:creeper",
+    "permission_level": 4
+  },
+  "entity_action_removed": {
+    "type": "origins:execute_command",
+    "command": "identity unequip @s",
+    "permission_level": 4
+  },
+  "execute_chosen_when_orb": true
 }
